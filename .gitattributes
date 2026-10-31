@@ -1,0 +1,10 @@
+* text=auto
+
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.toml text eol=lf
+*.svg text eol=lf
+scripts/compress-image text eol=lf
+scripts/compress-image.cmd text eol=crlf
+scripts/compress-image.ps1 text eol=crlf

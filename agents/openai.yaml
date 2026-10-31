@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image Compress"
+  short_description: "Compress images below upload limits before sending to models"
+  default_prompt: "Use $image-compress to shrink oversized images below the upload limit, preserving originals and reporting the final size."
